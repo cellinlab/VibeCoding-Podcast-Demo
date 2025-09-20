@@ -1,0 +1,1137 @@
+{
+  "props": {
+    "pageProps": {
+      "podcast": {
+        "type": "PODCAST",
+        "pid": "685bb06b04741dab58813384",
+        "title": "造物矩阵｜超级个体开放麦",
+        "author": "Cell细胞",
+        "description": "聚焦「独立工作者」与「超级个体」，邀请那些正在尝试或已经脱离职场、走上自我探索与创作之路的个体，聊聊他们如何启动副业、打造产品、走出主流职业轨道，构建自己的小生意。\n我们相信，在 AI 时代，表达、创造和自我构建，就是新的生存方式。\nHosted by Superus（www.superus.online）",
+        "subscriptionCount": 23,
+        "image": {
+          "picUrl": "https://image.xyzcdn.net/FtNbr-YrIAY04kbKEi9fJ7deUxHA.png",
+          "width": 1440,
+          "height": 1440,
+          "format": "png",
+          "thumbnailUrl": "https://image.xyzcdn.net/FtNbr-YrIAY04kbKEi9fJ7deUxHA.png@thumbnail",
+          "smallPicUrl": "https://image.xyzcdn.net/FtNbr-YrIAY04kbKEi9fJ7deUxHA.png@small",
+          "middlePicUrl": "https://image.xyzcdn.net/FtNbr-YrIAY04kbKEi9fJ7deUxHA.png@middle",
+          "largePicUrl": "https://image.xyzcdn.net/FtNbr-YrIAY04kbKEi9fJ7deUxHA.png@large"
+        },
+        "color": {
+          "original": "#E0DCC7",
+          "light": "#DCC54C",
+          "dark": "#DCC54C"
+        },
+        "topicLabels": [],
+        "syncMode": "SELF_HOSTING",
+        "latestEpisodePubDate": "2025-09-14T09:25:04.734Z",
+        "subscriptionStatus": "OFF",
+        "subscriptionPush": false,
+        "subscriptionPushPriority": "HIGH",
+        "subscriptionStar": false,
+        "status": "NORMAL",
+        "episodeCount": 5,
+        "permissions": [
+          {
+            "name": "SHARE",
+            "status": "PERMITTED"
+          },
+          {
+            "name": "AI_SUMMARIZE_EPISODE",
+            "status": "DENIED"
+          }
+        ],
+        "payType": "FREE",
+        "payEpisodeCount": 0,
+        "isCustomized": false,
+        "podcasters": [
+          {
+            "type": "USER",
+            "uid": "61605025e0f5e723bb79e5ec",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/Fj8p0FYTnZuajjQ5oxhsr_O1-63C.jpg",
+                "middlePicUrl": "https://image.xyzcdn.net/Fj8p0FYTnZuajjQ5oxhsr_O1-63C.jpg@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/Fj8p0FYTnZuajjQ5oxhsr_O1-63C.jpg@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/Fj8p0FYTnZuajjQ5oxhsr_O1-63C.jpg@thumbnail",
+                "largePicUrl": "https://image.xyzcdn.net/Fj8p0FYTnZuajjQ5oxhsr_O1-63C.jpg@large",
+                "width": 1080,
+                "height": 1080,
+                "format": "jpeg"
+              }
+            },
+            "avatarDecoration": "PLATFORM_MEMBER_L1",
+            "nickname": "Cell细胞",
+            "isNicknameSet": true,
+            "bio": "95后/北漂/程序员/独立开发者/现实的理想主义者/世界主义者",
+            "gender": "MALE",
+            "isCancelled": false,
+            "ipLoc": "北京",
+            "readTrackInfo": {}
+          },
+          {
+            "type": "USER",
+            "uid": "687c956cd1d3507269c44d4c",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/FmiPXfqrSo3aoIA7ERwYQbGasfpU",
+                "middlePicUrl": "https://image.xyzcdn.net/FmiPXfqrSo3aoIA7ERwYQbGasfpU@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/FmiPXfqrSo3aoIA7ERwYQbGasfpU@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/FmiPXfqrSo3aoIA7ERwYQbGasfpU@thumbnail",
+                "largePicUrl": "https://image.xyzcdn.net/FmiPXfqrSo3aoIA7ERwYQbGasfpU@large",
+                "width": 132,
+                "height": 132,
+                "format": "jpeg"
+              }
+            },
+            "nickname": "琳月_Lynn",
+            "isNicknameSet": true,
+            "bio": "职业相关：LLM/AIGC从业者，AIGC创作者、小红书博主",
+            "isCancelled": false,
+            "ipLoc": "北京",
+            "readTrackInfo": {}
+          }
+        ],
+        "hasPopularEpisodes": false,
+        "contacts": [
+          {
+            "type": "wechatOfficialAccounts",
+            "name": "Cellinlab",
+            "note": "订阅公众号"
+          },
+          {
+            "type": "wechat",
+            "name": "vCellinlab",
+            "note": "添加微信"
+          },
+          {
+            "type": "custom",
+            "name": "X",
+            "url": "https://x.com/cellinlab"
+          }
+        ],
+        "playTime": 35790,
+        "showZhuiguangIcon": false,
+        "episodes": [
+          {
+            "type": "EPISODE",
+            "eid": "68c687d72c82c9dcca476665",
+            "pid": "685bb06b04741dab58813384",
+            "title": "校园创业月入50万，电商滑铁卢后转战大厂沉淀，借 AI 重启超级个体之旅",
+            "description": "🧩 一句话简介\n柿子（超级个体践行者｜AI 产品经理）聊他从校园本地生活月入 50 万，到电商踩坑、入职大厂产品修炼方法论，再重回自由职业做出海产品与 AI 工作流，如何用可复制的 SOP、工具链和“利他即利己”跑通普通人的上升通道。\n📖 详细介绍\n这期由琳月（@Linyue_Podcast）主持，Cell细胞（@Cellinlab） 串场主持，我们邀请请来了 柿子（@yaohui12138）——大学创业、社交平台日常分享 AI 搞钱实战、AI 编程教程与工作流搭建的“只讲干货”型选手。\n他大二就把“校园本地生活”做成了月入 50 万的项目，打法是以加盟 + SaaS 平台复制到多所高校，靠 QQ 新生群冷启动，做出标准化 SOP，既帮校内商家线上化，也拿到抽成与订阅的混合收益。\n疫情后他尝试电商，重点做抖音商品卡自然流与拼多多。复盘里直言“电商的本质是平台红利”，但自己误闯女装红海踩坑，朋友在“汽车用品”蓝海赚到钱，而后来综合毛利率其实就 3–5 个点——这波教训让他更注重赛道判断与周期红利的捕捉。\n随后柿子进大厂做 AI 产品经理，试图搞清“天赋”与“方法论”的边界：普通人通过系统学习和大量实操，完全可以达到“方法论型 PM”的判断力。离开大厂后，他重回自由职业，先做出海网站与 Web 项目、APP，最近将精力放到 Twitter/Reddit 的内容与产品验证上。\n更“有料”的部分在于工具链与工作流：他分享用 N8N 编排自动化，结合抓取 Reddit 评论、Sensor Tower 数据来做出海分析；并实测 Google AI Studio 与 Gemini 的差异，强调“信息捕获能力 + 工具断代”是 AI 时代的核心优势。\n此外，他也给出“切片时间法”，把每天切成 N 个格子，提高并行推进的密度。最后，插播小广告：希望链接有执行力、懂代码的同伴，也愿意提供 PM 成长手册、陪跑与课程支持——“Be Water，但要有方法”。\n🏷️ 关键词标签\n#副业 #校园本地生活 #加盟SaaS #电商复盘 #平台红利 #AI工作流 #N8N #GoogleAIStudio #出海产品 #内容变现 #超级个体\n⏩ 时间轴索引\n* 00:00:00｜Loading...\n* 00:00:14｜主持人：琳月；串场：Cell 细胞；嘉宾：柿子\n* 00:00:29｜柿子自我介绍：大学创业→大厂 AI PM→自由职业\n* 00:00:52｜校园本地生活项目：月入“约 50 万”，后因疫情停摆\n* 00:01:05｜入职大厂做 AI 产品经理，沉淀方法论，再转自由职业做出海产品\n* 00:10:56｜转向电商：抖音/拼多多等多平台试水与复盘\n* 00:11:18｜判断赛道与“商品卡自然流”：平台红利=获客趋近 0\n* 00:12:08｜踩坑复盘：女装“红海”被清算出场\n* 00:12:28｜拼多多“汽车用品”曾是蓝海；但投入产出不及预期\n* 00:12:43｜电商综合毛利率常见区间：3–5%\n* 00:24:49｜时间管理与工作节奏：并行推进\n* 00:25:27｜“15 分钟切片法”：将大块时间细分为 15 分钟格\n* 00:33:32｜“工具断代 + 信息捕获能力”是胜率来源\n* 00:34:19｜工作流与工具链：N8N 编排；抓 Reddit 评论与 Sensor Tower 数据\n* 00:35:12｜把调研落成 PRD：对比 AI Studio 与 Gemini 的思考深度差异\n* 00:36:03｜更多工具推荐：Dia / Fellou 等 AI 浏览器\n* 00:39:12｜“学徒制”类比：做的是“生存技能”的交付，而非只卖课程\n* 00:40:46｜开放麦福利：课程大纲、二维码与私域链接可放 shownotes\n* 00:45:04｜内容观与去中心化：从平台级大 V 到多圈层信任关系\n* 00:52:53｜“产品经理是一种方法论/综合素养”：跨角色的识别与解决问题能力\n* 01:03:34｜进入收尾：到“广告/需求”环节\n* 01:04:56｜明确合作诉求：寻找“有执行力、懂代码”的伙伴与更强链接\n* 01:05:20｜可提供：PM 成长路径、陪跑、方法论课程等（服务清单）\n* 01:06:36｜Happy Ending 🎉\n—\n最后\n关于柿子更多的故事和经历细节（也可以直接添加他的微信细聊哦♥️\n主持：琳月｜串场：Cell 细胞｜嘉宾：柿子（超级个体践行者｜AI 产品经理）\n更适合谁：探索副业、做出海产品、用 AI 提效并愿意“边做边分享”的你。\n普通人也可以开始自己的表达和生意。\n欢迎分享本节目给需要的人♥️\n了解更多\n「$uperus｜超级个体开放麦」全面启动！",
+            "shownotes": null,
+            "duration": 4011,
+            "image": {
+              "picUrl": "https://image.xyzcdn.net/FvGkefkbxC8h-rOAYccSMgfJK7JO.png",
+              "width": 1024,
+              "height": 1024,
+              "format": "png",
+              "thumbnailUrl": "https://image.xyzcdn.net/FvGkefkbxC8h-rOAYccSMgfJK7JO.png@thumbnail",
+              "smallPicUrl": "https://image.xyzcdn.net/FvGkefkbxC8h-rOAYccSMgfJK7JO.png@small",
+              "middlePicUrl": "https://image.xyzcdn.net/FvGkefkbxC8h-rOAYccSMgfJK7JO.png@middle",
+              "largePicUrl": "https://image.xyzcdn.net/FvGkefkbxC8h-rOAYccSMgfJK7JO.png@large"
+            },
+            "enclosure": {
+              "url": "https://media.xyzcdn.net/685bb06b04741dab58813384/lge63KBp3HIQ-nXdU5UNxrr2L0zu.m4a"
+            },
+            "isPrivateMedia": false,
+            "mediaKey": "685bb06b04741dab58813384/lge63KBp3HIQ-nXdU5UNxrr2L0zu.m4a",
+            "media": {
+              "id": "685bb06b04741dab58813384/lge63KBp3HIQ-nXdU5UNxrr2L0zu.m4a",
+              "size": 64874982,
+              "mimeType": "audio/mp4",
+              "source": {
+                "mode": "PUBLIC",
+                "url": "https://media.xyzcdn.net/685bb06b04741dab58813384/lge63KBp3HIQ-nXdU5UNxrr2L0zu.m4a"
+              }
+            },
+            "playCount": 25,
+            "clapCount": 0,
+            "commentCount": 2,
+            "favoriteCount": 0,
+            "pubDate": "2025-09-14T09:25:04.734Z",
+            "status": "NORMAL",
+            "podcast": {
+              "type": "PODCAST",
+              "pid": "685bb06b04741dab58813384",
+              "title": "造物矩阵｜超级个体开放麦",
+              "author": "Cell细胞",
+              "description": "聚焦「独立工作者」与「超级个体」，邀请那些正在尝试或已经脱离职场、走上自我探索与创作之路的个体，聊聊他们如何启动副业、打造产品、走出主流职业轨道，构建自己的小生意。\n我们相信，在 AI 时代，表达、创造和自我构建，就是新的生存方式。\nHosted by Superus（www.superus.online）",
+              "subscriptionCount": 23,
+              "image": {
+                "picUrl": "https://image.xyzcdn.net/FtNbr-YrIAY04kbKEi9fJ7deUxHA.png",
+                "width": 1440,
+                "height": 1440,
+                "format": "png",
+                "thumbnailUrl": "https://image.xyzcdn.net/FtNbr-YrIAY04kbKEi9fJ7deUxHA.png@thumbnail",
+                "smallPicUrl": "https://image.xyzcdn.net/FtNbr-YrIAY04kbKEi9fJ7deUxHA.png@small",
+                "middlePicUrl": "https://image.xyzcdn.net/FtNbr-YrIAY04kbKEi9fJ7deUxHA.png@middle",
+                "largePicUrl": "https://image.xyzcdn.net/FtNbr-YrIAY04kbKEi9fJ7deUxHA.png@large"
+              },
+              "color": {
+                "original": "#E0DCC7",
+                "light": "#DCC54C",
+                "dark": "#DCC54C"
+              },
+              "topicLabels": [],
+              "syncMode": "SELF_HOSTING",
+              "latestEpisodePubDate": "2025-09-14T09:25:04.734Z",
+              "subscriptionStatus": "OFF",
+              "subscriptionPush": false,
+              "subscriptionPushPriority": "HIGH",
+              "subscriptionStar": false,
+              "status": "NORMAL",
+              "episodeCount": 5,
+              "permissions": [
+                {
+                  "name": "SHARE",
+                  "status": "PERMITTED"
+                },
+                {
+                  "name": "AI_SUMMARIZE_EPISODE",
+                  "status": "DENIED"
+                }
+              ],
+              "payType": "FREE",
+              "payEpisodeCount": 0,
+              "isCustomized": false,
+              "podcasters": [
+                {
+                  "uid": "61605025e0f5e723bb79e5ec",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/Fj8p0FYTnZuajjQ5oxhsr_O1-63C.jpg",
+                      "middlePicUrl": "https://image.xyzcdn.net/Fj8p0FYTnZuajjQ5oxhsr_O1-63C.jpg@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/Fj8p0FYTnZuajjQ5oxhsr_O1-63C.jpg@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/Fj8p0FYTnZuajjQ5oxhsr_O1-63C.jpg@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/Fj8p0FYTnZuajjQ5oxhsr_O1-63C.jpg@large",
+                      "width": 1080,
+                      "height": 1080,
+                      "format": "jpeg"
+                    }
+                  },
+                  "avatarDecoration": "PLATFORM_MEMBER_L1",
+                  "nickname": "Cell细胞",
+                  "isNicknameSet": true,
+                  "bio": "95后/北漂/程序员/独立开发者/现实的理想主义者/世界主义者",
+                  "gender": "MALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "687c956cd1d3507269c44d4c",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FmiPXfqrSo3aoIA7ERwYQbGasfpU",
+                      "middlePicUrl": "https://image.xyzcdn.net/FmiPXfqrSo3aoIA7ERwYQbGasfpU@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FmiPXfqrSo3aoIA7ERwYQbGasfpU@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FmiPXfqrSo3aoIA7ERwYQbGasfpU@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FmiPXfqrSo3aoIA7ERwYQbGasfpU@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "琳月_Lynn",
+                  "isNicknameSet": true,
+                  "bio": "职业相关：LLM/AIGC从业者，AIGC创作者、小红书博主",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                }
+              ],
+              "hasPopularEpisodes": false,
+              "contacts": [
+                {
+                  "type": "wechatOfficialAccounts",
+                  "name": "Cellinlab",
+                  "note": "订阅公众号"
+                },
+                {
+                  "type": "wechat",
+                  "name": "vCellinlab",
+                  "note": "添加微信"
+                },
+                {
+                  "type": "custom",
+                  "name": "X",
+                  "url": "https://x.com/cellinlab"
+                }
+              ],
+              "playTime": 35790,
+              "showZhuiguangIcon": false
+            },
+            "isPlayed": false,
+            "isFinished": false,
+            "isFavorited": false,
+            "isPicked": false,
+            "permissions": [
+              {
+                "name": "SHARE",
+                "status": "PERMITTED"
+              },
+              {
+                "name": "COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOICE_COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "COMMENT_PAGE",
+                "status": "DENIED"
+              },
+              {
+                "name": "CLAP",
+                "status": "DENIED"
+              },
+              {
+                "name": "PICK",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOTE",
+                "status": "DENIED"
+              },
+              {
+                "name": "AI_SUMMARIZE",
+                "status": "DENIED"
+              }
+            ],
+            "payType": "FREE",
+            "wechatShare": {
+              "style": "LINK_CARD"
+            },
+            "labels": [],
+            "sponsors": [],
+            "isCustomized": false,
+            "ipLoc": "瑞典",
+            "transcript": {
+              "mediaId": "685bb06b04741dab58813384/lge63KBp3HIQ-nXdU5UNxrr2L0zu.m4a"
+            }
+          },
+          {
+            "type": "EPISODE",
+            "eid": "68bf09729eb4a49300720a9b",
+            "pid": "685bb06b04741dab58813384",
+            "title": "第4期：猝不及防的复盘，放下 SOP，让故事自己长出来",
+            "description": "🧩 一句话简介\n一次完全随缘的复盘：从“前采到底要不要做”“一刀不剪如何起步”，到如何招募嘉宾、在哪个平台分发、助推包试错与心态转变，以及新栏目「女孩 · 爱 · AI」的由来与后续规划。\n📖 详细介绍\n这一期是 琳月 和 Cell 细胞 的“无提纲式”复盘，聊最近几期围绕自媒体与副业探索的真实路径。两人先回看栏目起步：没有宏大规划，却在连续输出中自然生长出方向；一次拉满到四小时的深聊，甚至催生了新栏目「女孩 · 爱 · AI」。\n方法上，他们反思了“怎么开始”：SOP 太满会让表达变刻板，保留抓拍感与流动性，先发出去再迭代；前采依然重要，用来理解嘉宾脉络与关键词，但现场少打断、必要时拉回主线即可。\n招募与分发层面，小红书更容易触达女性受众，线下活动与私域滚雪球能让嘉宾越聊越多；内容分发走多平台，播客沉淀长期资产。\n商业化方面，“助推包”试过也卖出过，但团队决定先把内容与 IP 做厚，再谈规模化变现。\n最后，他们还聊到面对数据与真实的取舍、负评心态、以及“普通人也能开始”的那点勇气。\n🏷️关键词标签\n#复盘 #自媒体 #副业 #个人IP #访谈技巧 #前采 #内容分发 #小红书 #内容变现 #女孩爱AI\n⏩ 时间轴章节索引\n* 00:00｜开场与近况：这次就随缘聊 🧭\n* 00:02｜为什么先“上手做”，别被 SOP 绑住 🧱➡️🏃\n* 00:03｜要不要前采？怎么做才更有效 🧩\n* 00:04｜主持风格：少打断，必要时拉回主线 🎤\n* 00:05｜一次“无提纲唠嗑”带来的启发 💡\n* 00:06:37｜一刀不剪也能发：把门槛打穿 ✂🚀\n* 00:07｜先拿到正反馈，再逐步精修 ✅\n* 00:07:39｜“野生访谈者”的直觉与个人风格 🐾\n* 00:08:22｜做个人 IP＝做自己：人设是在行动中长出来的 🌱\n* 00:14:41｜追问“为什么”：不确定性里的判断力 🧠\n* 00:17:41｜从0到1：制作人的视角与流程搭建 🛠️\n* 00:18:28｜新栏目为何出现：「女孩 · 爱 · AI」的起点 🌸❤️🤖\n* 00:19:42｜三组关键词的定义与边界 🗝️\n* 00:23:47｜去哪里找嘉宾：小红书、X、线下活动 📌\n* 00:24:21｜女性受众主要在小红书：分发与触达 🎯\n* 00:25:28｜助推包与变现试错：一次 299 的实测 💳\n* 00:26:39｜策略转向：先沉淀内容与 IP，再谈商业化 📚→💼\n* 00:27:00｜隐形回报：访谈像“免费上课” 📖\n* 00:29:48｜单口 vs 对谈：时长、灵感与呈现差异 🎭\n* 00:35:43｜碎片也有价值：快迭代时代的表达 ✍️⚡\n* 00:36:47｜为何这么快复盘？遇到对的嘉宾就开麦 🫶\n* 00:37:43｜「女孩 · 爱 · AI」会长期做的原因 🔁\n* 00:39:00｜标题与风格灵感：从小圈层到破圈 🌀\n* 00:43:09｜覆盖样本变大后的负评与心态管理 🧯\n* 00:46:25｜数据还是“真实”？取舍与边界感 ⚖️\n* 00:48:55｜收束：今天就到这儿，保持好状态 🙌\n了解更多\n「$uperus｜超级个体开放麦」全面启动！",
+            "shownotes": null,
+            "duration": 2962,
+            "image": {
+              "picUrl": "https://image.xyzcdn.net/FsPR8J19rUe3Jlb40S6iwEIny_gv.png",
+              "width": 1024,
+              "height": 1024,
+              "format": "png",
+              "thumbnailUrl": "https://image.xyzcdn.net/FsPR8J19rUe3Jlb40S6iwEIny_gv.png@thumbnail",
+              "smallPicUrl": "https://image.xyzcdn.net/FsPR8J19rUe3Jlb40S6iwEIny_gv.png@small",
+              "middlePicUrl": "https://image.xyzcdn.net/FsPR8J19rUe3Jlb40S6iwEIny_gv.png@middle",
+              "largePicUrl": "https://image.xyzcdn.net/FsPR8J19rUe3Jlb40S6iwEIny_gv.png@large"
+            },
+            "enclosure": {
+              "url": "https://media.xyzcdn.net/685bb06b04741dab58813384/lozH2tS0T7pZo2_3VTaBlbIrlHdg.m4a"
+            },
+            "isPrivateMedia": false,
+            "mediaKey": "685bb06b04741dab58813384/lozH2tS0T7pZo2_3VTaBlbIrlHdg.m4a",
+            "media": {
+              "id": "685bb06b04741dab58813384/lozH2tS0T7pZo2_3VTaBlbIrlHdg.m4a",
+              "size": 47916757,
+              "mimeType": "audio/mp4",
+              "source": {
+                "mode": "PUBLIC",
+                "url": "https://media.xyzcdn.net/685bb06b04741dab58813384/lozH2tS0T7pZo2_3VTaBlbIrlHdg.m4a"
+              }
+            },
+            "playCount": 1,
+            "clapCount": 0,
+            "commentCount": 0,
+            "favoriteCount": 0,
+            "pubDate": "2025-09-08T20:18:35.261Z",
+            "status": "NORMAL",
+            "podcast": {
+              "type": "PODCAST",
+              "pid": "685bb06b04741dab58813384",
+              "title": "造物矩阵｜超级个体开放麦",
+              "author": "Cell细胞",
+              "description": "聚焦「独立工作者」与「超级个体」，邀请那些正在尝试或已经脱离职场、走上自我探索与创作之路的个体，聊聊他们如何启动副业、打造产品、走出主流职业轨道，构建自己的小生意。\n我们相信，在 AI 时代，表达、创造和自我构建，就是新的生存方式。\nHosted by Superus（www.superus.online）",
+              "subscriptionCount": 23,
+              "image": {
+                "picUrl": "https://image.xyzcdn.net/FtNbr-YrIAY04kbKEi9fJ7deUxHA.png",
+                "width": 1440,
+                "height": 1440,
+                "format": "png",
+                "thumbnailUrl": "https://image.xyzcdn.net/FtNbr-YrIAY04kbKEi9fJ7deUxHA.png@thumbnail",
+                "smallPicUrl": "https://image.xyzcdn.net/FtNbr-YrIAY04kbKEi9fJ7deUxHA.png@small",
+                "middlePicUrl": "https://image.xyzcdn.net/FtNbr-YrIAY04kbKEi9fJ7deUxHA.png@middle",
+                "largePicUrl": "https://image.xyzcdn.net/FtNbr-YrIAY04kbKEi9fJ7deUxHA.png@large"
+              },
+              "color": {
+                "original": "#E0DCC7",
+                "light": "#DCC54C",
+                "dark": "#DCC54C"
+              },
+              "topicLabels": [],
+              "syncMode": "SELF_HOSTING",
+              "latestEpisodePubDate": "2025-09-14T09:25:04.734Z",
+              "subscriptionStatus": "OFF",
+              "subscriptionPush": false,
+              "subscriptionPushPriority": "HIGH",
+              "subscriptionStar": false,
+              "status": "NORMAL",
+              "episodeCount": 5,
+              "permissions": [
+                {
+                  "name": "SHARE",
+                  "status": "PERMITTED"
+                },
+                {
+                  "name": "AI_SUMMARIZE_EPISODE",
+                  "status": "DENIED"
+                }
+              ],
+              "payType": "FREE",
+              "payEpisodeCount": 0,
+              "isCustomized": false,
+              "podcasters": [
+                {
+                  "uid": "61605025e0f5e723bb79e5ec",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/Fj8p0FYTnZuajjQ5oxhsr_O1-63C.jpg",
+                      "middlePicUrl": "https://image.xyzcdn.net/Fj8p0FYTnZuajjQ5oxhsr_O1-63C.jpg@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/Fj8p0FYTnZuajjQ5oxhsr_O1-63C.jpg@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/Fj8p0FYTnZuajjQ5oxhsr_O1-63C.jpg@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/Fj8p0FYTnZuajjQ5oxhsr_O1-63C.jpg@large",
+                      "width": 1080,
+                      "height": 1080,
+                      "format": "jpeg"
+                    }
+                  },
+                  "avatarDecoration": "PLATFORM_MEMBER_L1",
+                  "nickname": "Cell细胞",
+                  "isNicknameSet": true,
+                  "bio": "95后/北漂/程序员/独立开发者/现实的理想主义者/世界主义者",
+                  "gender": "MALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "687c956cd1d3507269c44d4c",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FmiPXfqrSo3aoIA7ERwYQbGasfpU",
+                      "middlePicUrl": "https://image.xyzcdn.net/FmiPXfqrSo3aoIA7ERwYQbGasfpU@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FmiPXfqrSo3aoIA7ERwYQbGasfpU@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FmiPXfqrSo3aoIA7ERwYQbGasfpU@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FmiPXfqrSo3aoIA7ERwYQbGasfpU@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "琳月_Lynn",
+                  "isNicknameSet": true,
+                  "bio": "职业相关：LLM/AIGC从业者，AIGC创作者、小红书博主",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                }
+              ],
+              "hasPopularEpisodes": false,
+              "contacts": [
+                {
+                  "type": "wechatOfficialAccounts",
+                  "name": "Cellinlab",
+                  "note": "订阅公众号"
+                },
+                {
+                  "type": "wechat",
+                  "name": "vCellinlab",
+                  "note": "添加微信"
+                },
+                {
+                  "type": "custom",
+                  "name": "X",
+                  "url": "https://x.com/cellinlab"
+                }
+              ],
+              "playTime": 35790,
+              "showZhuiguangIcon": false
+            },
+            "isPlayed": false,
+            "isFinished": false,
+            "isFavorited": false,
+            "isPicked": false,
+            "permissions": [
+              {
+                "name": "SHARE",
+                "status": "PERMITTED"
+              },
+              {
+                "name": "COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOICE_COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "COMMENT_PAGE",
+                "status": "DENIED"
+              },
+              {
+                "name": "CLAP",
+                "status": "DENIED"
+              },
+              {
+                "name": "PICK",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOTE",
+                "status": "DENIED"
+              },
+              {
+                "name": "AI_SUMMARIZE",
+                "status": "DENIED"
+              }
+            ],
+            "payType": "FREE",
+            "wechatShare": {
+              "style": "LINK_CARD"
+            },
+            "labels": [],
+            "sponsors": [],
+            "isCustomized": false,
+            "ipLoc": "美国",
+            "transcript": {
+              "mediaId": "685bb06b04741dab58813384/lozH2tS0T7pZo2_3VTaBlbIrlHdg.m4a"
+            }
+          },
+          {
+            "type": "EPISODE",
+            "eid": "68bf05a5d644af94231ee79a",
+            "pid": "685bb06b04741dab58813384",
+            "title": "第3期：大厂、开源、出海、一人公司披荆斩棘，Iris 的运营方法论与女性成长四小时长谈",
+            "description": "🧩 一句话简介\n本期嘉宾是 Affine 联合创始人生姜 Iris，讲透从开源爆红（开源第二天起 800→6000 Star）、Pre-A 融资到 2024 年 4 月离开公司成为一人公司，以及她的运营方法、时间管理与女性成长心法。\n📖 详细介绍\n这期我们请到 生姜 Iris（即刻/小红书/X 同名账号），聊她从「大厂—开源创业—出海—再出发」的一路披荆斩棘。节目从 Affine 的开源起步谈起：团队几乎「清空重来」，7 月底临时决定开源，仅用一周把官网和素材「搓」出来，8 月 3 日凌晨正式开源；开源 3 天 Star 直冲 1800、首周到 6000，资本与关注一夜涌来。\n随后她复盘融资与出海：Pre-A 800 万美元、资金到位拖到 2023 年初，开新加坡据点、在硅谷活动，却逐渐意识到与「一号位」在产品与用户重视度上的分歧，最终在 2024 年 4 月离开。\n聊天也落到方法与人：她把「运营」拉回 C 位——在 AI 时代，产品/研发/运营必须精密协同，许多关键洞察来自真诚的一对一用户交流与长评反馈。\n转身为一人公司后，她不再雇佣员工，而是与多位合作方组成「生态」，用信任与判断让连接彼此增值。\n后半程，我们把话题又迁移到「女性成长、原生家庭与亲密关系」——从初恋的相识插曲，到父亲那句「问心无愧」的生命底线。你会听到她如何重新掌控时间、练习独处，把表达变成温和而坚定的自我构建。\n🏷️关键词标签\n#开源 #PreA融资 #出海 #大厂离职 #一人公司 #运营方法论 #用户研究 #女性成长 #原生家庭 #亲密关系\n⏩ 时间轴章节索引\n召唤与启程｜创业时间线与开源爆发\n00:00 开场与嘉宾介绍；本期分为「创业之旅 \u0026 超级个体」两部分。\n00:05:12 团队阵痛与 2022 年 2 月重组；转向开源版本。\n00:06:30 一周极限冲刺，8/3 凌晨 1:47 正式开源。\n00:07:29 首日 800 Star、第三天再增 1000，首周 6000 Star。\n00:08:23 Pre-A 800 万美元 及其后续坑。\n00:08:48 资金到账至 2023 年初；出海试水新加坡/硅谷。\n00:09:27 与一号位分歧加深；2024/04 离开公司。\n试炼与技艺｜运营与增长：方法、案例、复盘\n00:10:01 创业前背景：2020 年、疫情与学业节点。\n00:22:58 父亲的两句话：爱与事业的优先级，合伙与角色心法。\n00:34:52 第一次做互联网运营，来自海外用户的真诚反馈。\n00:37:53 用户写来 2000 字长评，明确价值主张与定位（本地化文档×白板）。\n00:51:20 在 AI 时代把运营拉回 C 位：产研运三方精密协同。\n00:55:45 团队协同与成长速率：身边公司案例的启发。\n跨越门槛｜从大厂到一人公司：职业转型与生态协作\n01:14:18 创业后求职与自我认知落差；「连 1 万工资都找不到」的阶段性心态。\n01:26:54 在字节的学习：线下社区与 ToB 商业化。\n01:33:14 决定离开大厂：焦虑、自由度与生理性不适。\n01:40:55 一人公司 的合作式生产：不雇人、搭伙伴网络，生态互信带来复利。\n构建自我｜女性成长、原生家庭与亲密关系\n01:45:31 第二部分开启：女性成长／原生家庭／亲密关系。\n01:47:33 少年时期的「精细化运营」：从 QQ 空间养成内容/生态思维。\n01:55:50 2016 年开公众号与第一份约稿。\n01:58:22 初恋相识的「三体签售会」。\n03:18:19 重新掌控时间：告别「他人安排」式的人生。\n03:24:51 独处与自我建构的练习：给自己正反馈。\n03:40:21 「算账式」生活选择：买房与否的理性与自由。\n03:57:38 父亲的提醒：尽力之后，问心无愧。\n——\n如果你在职业转型或副业起步的路上，这期会给到两种力量：方法（可复用的开源/运营/协作打法）与心力（面向自我与关系的温柔锻造）。\n欢迎分享本节目给需要的人♥️\n了解更多\n「$uperus｜超级个体开放麦」全面启动！",
+            "shownotes": null,
+            "duration": 14350,
+            "image": {
+              "picUrl": "https://image.xyzcdn.net/FsCaumYqwGhV35ZCLconW3kGmdzT.png",
+              "width": 952,
+              "height": 952,
+              "format": "png",
+              "thumbnailUrl": "https://image.xyzcdn.net/FsCaumYqwGhV35ZCLconW3kGmdzT.png@thumbnail",
+              "smallPicUrl": "https://image.xyzcdn.net/FsCaumYqwGhV35ZCLconW3kGmdzT.png@small",
+              "middlePicUrl": "https://image.xyzcdn.net/FsCaumYqwGhV35ZCLconW3kGmdzT.png@middle",
+              "largePicUrl": "https://image.xyzcdn.net/FsCaumYqwGhV35ZCLconW3kGmdzT.png@large"
+            },
+            "enclosure": {
+              "url": "https://media.xyzcdn.net/685bb06b04741dab58813384/ls5iEeItx-5gmBH1uw4TXUBQBUs8.m4a"
+            },
+            "isPrivateMedia": false,
+            "mediaKey": "685bb06b04741dab58813384/ls5iEeItx-5gmBH1uw4TXUBQBUs8.m4a",
+            "media": {
+              "id": "685bb06b04741dab58813384/ls5iEeItx-5gmBH1uw4TXUBQBUs8.m4a",
+              "size": 232089507,
+              "mimeType": "audio/mp4",
+              "source": {
+                "mode": "PUBLIC",
+                "url": "https://media.xyzcdn.net/685bb06b04741dab58813384/ls5iEeItx-5gmBH1uw4TXUBQBUs8.m4a"
+              }
+            },
+            "playCount": 2,
+            "clapCount": 0,
+            "commentCount": 0,
+            "favoriteCount": 1,
+            "pubDate": "2025-09-08T20:13:20.972Z",
+            "status": "NORMAL",
+            "podcast": {
+              "type": "PODCAST",
+              "pid": "685bb06b04741dab58813384",
+              "title": "造物矩阵｜超级个体开放麦",
+              "author": "Cell细胞",
+              "description": "聚焦「独立工作者」与「超级个体」，邀请那些正在尝试或已经脱离职场、走上自我探索与创作之路的个体，聊聊他们如何启动副业、打造产品、走出主流职业轨道，构建自己的小生意。\n我们相信，在 AI 时代，表达、创造和自我构建，就是新的生存方式。\nHosted by Superus（www.superus.online）",
+              "subscriptionCount": 23,
+              "image": {
+                "picUrl": "https://image.xyzcdn.net/FtNbr-YrIAY04kbKEi9fJ7deUxHA.png",
+                "width": 1440,
+                "height": 1440,
+                "format": "png",
+                "thumbnailUrl": "https://image.xyzcdn.net/FtNbr-YrIAY04kbKEi9fJ7deUxHA.png@thumbnail",
+                "smallPicUrl": "https://image.xyzcdn.net/FtNbr-YrIAY04kbKEi9fJ7deUxHA.png@small",
+                "middlePicUrl": "https://image.xyzcdn.net/FtNbr-YrIAY04kbKEi9fJ7deUxHA.png@middle",
+                "largePicUrl": "https://image.xyzcdn.net/FtNbr-YrIAY04kbKEi9fJ7deUxHA.png@large"
+              },
+              "color": {
+                "original": "#E0DCC7",
+                "light": "#DCC54C",
+                "dark": "#DCC54C"
+              },
+              "topicLabels": [],
+              "syncMode": "SELF_HOSTING",
+              "latestEpisodePubDate": "2025-09-14T09:25:04.734Z",
+              "subscriptionStatus": "OFF",
+              "subscriptionPush": false,
+              "subscriptionPushPriority": "HIGH",
+              "subscriptionStar": false,
+              "status": "NORMAL",
+              "episodeCount": 5,
+              "permissions": [
+                {
+                  "name": "SHARE",
+                  "status": "PERMITTED"
+                },
+                {
+                  "name": "AI_SUMMARIZE_EPISODE",
+                  "status": "DENIED"
+                }
+              ],
+              "payType": "FREE",
+              "payEpisodeCount": 0,
+              "isCustomized": false,
+              "podcasters": [
+                {
+                  "uid": "61605025e0f5e723bb79e5ec",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/Fj8p0FYTnZuajjQ5oxhsr_O1-63C.jpg",
+                      "middlePicUrl": "https://image.xyzcdn.net/Fj8p0FYTnZuajjQ5oxhsr_O1-63C.jpg@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/Fj8p0FYTnZuajjQ5oxhsr_O1-63C.jpg@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/Fj8p0FYTnZuajjQ5oxhsr_O1-63C.jpg@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/Fj8p0FYTnZuajjQ5oxhsr_O1-63C.jpg@large",
+                      "width": 1080,
+                      "height": 1080,
+                      "format": "jpeg"
+                    }
+                  },
+                  "avatarDecoration": "PLATFORM_MEMBER_L1",
+                  "nickname": "Cell细胞",
+                  "isNicknameSet": true,
+                  "bio": "95后/北漂/程序员/独立开发者/现实的理想主义者/世界主义者",
+                  "gender": "MALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "687c956cd1d3507269c44d4c",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FmiPXfqrSo3aoIA7ERwYQbGasfpU",
+                      "middlePicUrl": "https://image.xyzcdn.net/FmiPXfqrSo3aoIA7ERwYQbGasfpU@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FmiPXfqrSo3aoIA7ERwYQbGasfpU@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FmiPXfqrSo3aoIA7ERwYQbGasfpU@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FmiPXfqrSo3aoIA7ERwYQbGasfpU@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "琳月_Lynn",
+                  "isNicknameSet": true,
+                  "bio": "职业相关：LLM/AIGC从业者，AIGC创作者、小红书博主",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                }
+              ],
+              "hasPopularEpisodes": false,
+              "contacts": [
+                {
+                  "type": "wechatOfficialAccounts",
+                  "name": "Cellinlab",
+                  "note": "订阅公众号"
+                },
+                {
+                  "type": "wechat",
+                  "name": "vCellinlab",
+                  "note": "添加微信"
+                },
+                {
+                  "type": "custom",
+                  "name": "X",
+                  "url": "https://x.com/cellinlab"
+                }
+              ],
+              "playTime": 35790,
+              "showZhuiguangIcon": false
+            },
+            "isPlayed": false,
+            "isFinished": false,
+            "isFavorited": false,
+            "isPicked": false,
+            "permissions": [
+              {
+                "name": "SHARE",
+                "status": "PERMITTED"
+              },
+              {
+                "name": "COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOICE_COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "COMMENT_PAGE",
+                "status": "DENIED"
+              },
+              {
+                "name": "CLAP",
+                "status": "DENIED"
+              },
+              {
+                "name": "PICK",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOTE",
+                "status": "DENIED"
+              },
+              {
+                "name": "AI_SUMMARIZE",
+                "status": "DENIED"
+              }
+            ],
+            "payType": "FREE",
+            "wechatShare": {
+              "style": "LINK_CARD"
+            },
+            "labels": [],
+            "sponsors": [],
+            "isCustomized": false,
+            "ipLoc": "美国",
+            "transcript": {
+              "mediaId": "685bb06b04741dab58813384/ls5iEeItx-5gmBH1uw4TXUBQBUs8.m4a"
+            }
+          },
+          {
+            "type": "EPISODE",
+            "eid": "68bef24ad644af94231c1e3f",
+            "pid": "685bb06b04741dab58813384",
+            "title": "第2期：不写代码也能造平台，AI Coding 解除教育产品专家的“封印”",
+            "description": "🔜一句话简介\n这一期聊 🤖AI Coding 如何让“不写代码的产品人”也能重构在线教育：把课件做成智能体、让老师真正主导互动，用“框架＋创意点＋AI扩写”教出创造力。🎯\n📖详细介绍\n本期我们和资深互联网教育产品人 胥老师 开聊。🚀\n他做过把内容生产效率提升数百倍的产品，如今借助 AI Coding，从 0 到 1 重构在线教学平台。\n核心思路很直白：把静态 PPT 变成可互动、可被老师主导的「智能体化课件」，把优秀老师的带班力沉淀为可复用流程，让普通老师也能把班带好。学生端在 AI 引导下完成任务、获得即时反馈，学习从被动阅读转为参与式体验。\n谈到「AI 写作课」，他坚持「写作框架＋学生的创意点」为主，AI 负责扩写与协作——AI 是并肩队友而非替代者。落地上，他用「架构思维」把多个 Agent 当作小团队分工：前端/后端/架构/后台各司其职，像带项目一样推进迭代 。\n行业现实也被摊开：传统新课研发贵又慢，AI 编程像给个体装上「外骨骼」，让小团队也能快速试错 。\n给入局者的建议同样务实：先把产品做成服务，先活下来，再谈规模化 。\n💡关键词标签\n#AI编程 🤖 #智能课件 🧠 #在线教育 📚 #教师主导 👩‍🏫 #互动课堂 🎛️ #写作教学 ✍️ #架构思维 🧩 #协作即产品化 🤝 #副业与产品化 🛠️ #教育创业 🚀\n⏭️ 时间轴\n00:00｜🎬 开场 \u0026 身份速写：教育老兵重新出发\n01:00｜🧭 过往经历与做过的创新产品\n02:28｜⚙️ AI Coding 让个体像拥有“大团队”一样把想法做出来\n03:17｜📉→📈 平台核心：互动化、智能化课件；AI 时代不再是静态 PPT\n04:38｜🎯 全流程覆盖，但「课件」是最核心的那块\n05:26｜👩‍🏫 学习需要“老师驱动”，工具需同时适配课堂与自主学习\n06:12｜🤖 学生端的“AI 老师”：在自主学习中承担引导与互动\n07:23｜🕹️ 老师端主导：同步翻页与统一互动的课堂控制\n11:29｜🏭 行业现实：AI 编程课新课稀缺，50人/18个月的传统研发门槛\n14:54｜🔓 工具进步＝“解除封印”，个人开发效率跃迁\n16:25｜🧪 实操打磨：用试点课验证方法论与效果\n16:48｜✍️ 反对“提示词抄作业”，主张“框架＋创意点＋AI扩写”\n17:30｜🤝 AI 的定位：不是替代者，是并肩协作者/团队成员\n21:34｜🧩 把优秀老师的“带班力”提炼为流程与环节设计\n23:30｜🌀 智能体化课件：学生参与、即时反馈、沉浸式学习\n24:20｜🧠 为什么“参与＝主动思考”，学习效果因此被强化\n27:20｜👥 多 Agent 协作：在一台电脑“分角色带团队”\n33:21｜📝 模板/提示词的边界：基层任务 OK，高阶创意需激发思考\n43:50｜🗂️ 角色设定与严格分工：前端/后端/架构/后台管理各司其职\n44:37｜🔬 为什么“分工细化”能提升模型协作质量\n48:30｜📲 端到端课堂互动：Pad 可操作、老师可召回学生作品\n49:29｜📊 扫码入班、实时大屏统计的小组互动示例\n50:20｜🧭 写作课小班在线场景的完整流程\n51:03｜📖 用《西游记》章回结构引导“故事梗概”生成\n53:28｜🧵 从梗概到“一键生成作品”的闭环\n01:01:19｜💼 商业选择：放弃获客，专注课程内容与服务能力\n01:04:35｜🛟 给入局者的建议：先做服务，不要先做产品\n01:06:38｜🔔 尾声：自律与作息\n🌍了解更多\n「$uperus｜超级个体开放麦」全面启动！",
+            "shownotes": null,
+            "duration": 4032,
+            "image": {
+              "picUrl": "https://image.xyzcdn.net/Fhs4FgG83uPcVoEuhnvBsf3fIea-.png",
+              "width": 1024,
+              "height": 1024,
+              "format": "png",
+              "thumbnailUrl": "https://image.xyzcdn.net/Fhs4FgG83uPcVoEuhnvBsf3fIea-.png@thumbnail",
+              "smallPicUrl": "https://image.xyzcdn.net/Fhs4FgG83uPcVoEuhnvBsf3fIea-.png@small",
+              "middlePicUrl": "https://image.xyzcdn.net/Fhs4FgG83uPcVoEuhnvBsf3fIea-.png@middle",
+              "largePicUrl": "https://image.xyzcdn.net/Fhs4FgG83uPcVoEuhnvBsf3fIea-.png@large"
+            },
+            "enclosure": {
+              "url": "https://media.xyzcdn.net/685bb06b04741dab58813384/lvdsU0Ifi3BPwTCrdeFQN5JuuXS2.m4a"
+            },
+            "isPrivateMedia": false,
+            "mediaKey": "685bb06b04741dab58813384/lvdsU0Ifi3BPwTCrdeFQN5JuuXS2.m4a",
+            "media": {
+              "id": "685bb06b04741dab58813384/lvdsU0Ifi3BPwTCrdeFQN5JuuXS2.m4a",
+              "size": 65208964,
+              "mimeType": "audio/mp4",
+              "source": {
+                "mode": "PUBLIC",
+                "url": "https://media.xyzcdn.net/685bb06b04741dab58813384/lvdsU0Ifi3BPwTCrdeFQN5JuuXS2.m4a"
+              }
+            },
+            "playCount": 2,
+            "clapCount": 0,
+            "commentCount": 0,
+            "favoriteCount": 0,
+            "pubDate": "2025-09-08T15:42:39.417Z",
+            "status": "NORMAL",
+            "podcast": {
+              "type": "PODCAST",
+              "pid": "685bb06b04741dab58813384",
+              "title": "造物矩阵｜超级个体开放麦",
+              "author": "Cell细胞",
+              "description": "聚焦「独立工作者」与「超级个体」，邀请那些正在尝试或已经脱离职场、走上自我探索与创作之路的个体，聊聊他们如何启动副业、打造产品、走出主流职业轨道，构建自己的小生意。\n我们相信，在 AI 时代，表达、创造和自我构建，就是新的生存方式。\nHosted by Superus（www.superus.online）",
+              "subscriptionCount": 23,
+              "image": {
+                "picUrl": "https://image.xyzcdn.net/FtNbr-YrIAY04kbKEi9fJ7deUxHA.png",
+                "width": 1440,
+                "height": 1440,
+                "format": "png",
+                "thumbnailUrl": "https://image.xyzcdn.net/FtNbr-YrIAY04kbKEi9fJ7deUxHA.png@thumbnail",
+                "smallPicUrl": "https://image.xyzcdn.net/FtNbr-YrIAY04kbKEi9fJ7deUxHA.png@small",
+                "middlePicUrl": "https://image.xyzcdn.net/FtNbr-YrIAY04kbKEi9fJ7deUxHA.png@middle",
+                "largePicUrl": "https://image.xyzcdn.net/FtNbr-YrIAY04kbKEi9fJ7deUxHA.png@large"
+              },
+              "color": {
+                "original": "#E0DCC7",
+                "light": "#DCC54C",
+                "dark": "#DCC54C"
+              },
+              "topicLabels": [],
+              "syncMode": "SELF_HOSTING",
+              "latestEpisodePubDate": "2025-09-14T09:25:04.734Z",
+              "subscriptionStatus": "OFF",
+              "subscriptionPush": false,
+              "subscriptionPushPriority": "HIGH",
+              "subscriptionStar": false,
+              "status": "NORMAL",
+              "episodeCount": 5,
+              "permissions": [
+                {
+                  "name": "SHARE",
+                  "status": "PERMITTED"
+                },
+                {
+                  "name": "AI_SUMMARIZE_EPISODE",
+                  "status": "DENIED"
+                }
+              ],
+              "payType": "FREE",
+              "payEpisodeCount": 0,
+              "isCustomized": false,
+              "podcasters": [
+                {
+                  "uid": "61605025e0f5e723bb79e5ec",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/Fj8p0FYTnZuajjQ5oxhsr_O1-63C.jpg",
+                      "middlePicUrl": "https://image.xyzcdn.net/Fj8p0FYTnZuajjQ5oxhsr_O1-63C.jpg@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/Fj8p0FYTnZuajjQ5oxhsr_O1-63C.jpg@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/Fj8p0FYTnZuajjQ5oxhsr_O1-63C.jpg@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/Fj8p0FYTnZuajjQ5oxhsr_O1-63C.jpg@large",
+                      "width": 1080,
+                      "height": 1080,
+                      "format": "jpeg"
+                    }
+                  },
+                  "avatarDecoration": "PLATFORM_MEMBER_L1",
+                  "nickname": "Cell细胞",
+                  "isNicknameSet": true,
+                  "bio": "95后/北漂/程序员/独立开发者/现实的理想主义者/世界主义者",
+                  "gender": "MALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "687c956cd1d3507269c44d4c",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FmiPXfqrSo3aoIA7ERwYQbGasfpU",
+                      "middlePicUrl": "https://image.xyzcdn.net/FmiPXfqrSo3aoIA7ERwYQbGasfpU@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FmiPXfqrSo3aoIA7ERwYQbGasfpU@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FmiPXfqrSo3aoIA7ERwYQbGasfpU@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FmiPXfqrSo3aoIA7ERwYQbGasfpU@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "琳月_Lynn",
+                  "isNicknameSet": true,
+                  "bio": "职业相关：LLM/AIGC从业者，AIGC创作者、小红书博主",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                }
+              ],
+              "hasPopularEpisodes": false,
+              "contacts": [
+                {
+                  "type": "wechatOfficialAccounts",
+                  "name": "Cellinlab",
+                  "note": "订阅公众号"
+                },
+                {
+                  "type": "wechat",
+                  "name": "vCellinlab",
+                  "note": "添加微信"
+                },
+                {
+                  "type": "custom",
+                  "name": "X",
+                  "url": "https://x.com/cellinlab"
+                }
+              ],
+              "playTime": 35790,
+              "showZhuiguangIcon": false
+            },
+            "isPlayed": false,
+            "isFinished": false,
+            "isFavorited": false,
+            "isPicked": false,
+            "permissions": [
+              {
+                "name": "SHARE",
+                "status": "PERMITTED"
+              },
+              {
+                "name": "COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOICE_COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "COMMENT_PAGE",
+                "status": "DENIED"
+              },
+              {
+                "name": "CLAP",
+                "status": "DENIED"
+              },
+              {
+                "name": "PICK",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOTE",
+                "status": "DENIED"
+              },
+              {
+                "name": "AI_SUMMARIZE",
+                "status": "DENIED"
+              }
+            ],
+            "payType": "FREE",
+            "wechatShare": {
+              "style": "LINK_CARD"
+            },
+            "labels": [],
+            "sponsors": [],
+            "isCustomized": false,
+            "ipLoc": "美国",
+            "transcript": {
+              "mediaId": "685bb06b04741dab58813384/lvdsU0Ifi3BPwTCrdeFQN5JuuXS2.m4a"
+            }
+          },
+          {
+            "type": "EPISODE",
+            "eid": "6883abfaa12f9ff06a0c389d",
+            "pid": "685bb06b04741dab58813384",
+            "title": "第1期：从巢级个体到造物矩阵，Cell 的超级个体实践路",
+            "description": "🧩一句话简介\nCell 细胞 分享他如何从失业迷茫中找到突破口，探索超级个体路径，并通过社区与协作帮助小伙伴实现商业化、通过自媒体为自己构建副业收入的真实故事。\n📖详细介绍\n本期开放麦邀请到 Cell细胞——一个从失败的独立开发中走出来、如今正在构建超级个体社群和自媒体影响力的实干者。\n主持人琳月和 Cell 回溯了他们在一次线下 AI 活动中相识的过程，也从这段“因 AI 而起”的连接出发，展开了一场关于“超级个体”的深度对话。Cell 坦率分享了自己从职场出走、摸索自由职业与副业方向的曲折经历，也讲到因一度没有收入，不得不短暂回归打工人的现实困境。直到大模型的崛起，他才重新看到“一人做一队”的真正可能性。\n在这条探索路上，Cell 联合发起了“巢级个体组团共创”社群，用极轻量的方式，帮助个体链接起来组团做事——不靠融资、不搭平台，靠的就是共识和共建。他在播客中讲了两个令人动容的案例：一位因双减政策失业转码的老师，在线下相遇中重燃希望；一对算法和后端搭子，在三周内完成了产品上线并拿到融资。\n除了组织协作，Cell 也在认真经营自己的表达。他的推特账号从几百粉涨到一万多，用表达换信任、用信任换合作。每一步看似试探，其实都在构建属于他的内容系统和连接网络。\n这期播客不讲“暴富技巧”，但你能听到一个普通人如何通过持续表达和小规模协作，在变局时代里一点点搭建起自己的超级个体路径。\n🏷️关键词标签\n#超级个体 #副业探索 #组团共创 #AI工具 #独立开发 #内容变现\n#自媒体 #自由职业 #职场内卷\n🕰️时间轴章节索引\n* 00:00｜开场 \u0026 嘉宾介绍\n* 00:30｜Cell 和琳月的相识：因 AI 线下活动结缘\n* 01:40｜相互印象关键词：AI、开放、信任、利他\n* 03:00｜为什么开始探索“超级个体”？从职场压抑到 AI 杠杆\n* 05:00｜超级个体的画像：内驱、自主、有创造力\n* 06:30｜Cell 的路径：从自由职业尝试到 AI 时代的重新出发\n* 09:00｜社群雏形：巢级个体组团共创，影响 2000+ 人\n* 11:00｜真实案例分享①：失业转码老师的眼泪与重燃希望\n* 12:30｜真实案例分享②：三周上线产品，实现从副业到融资的闭环\n* 14:30｜现实挑战：精神层面的满足 vs 物质层面的拮据\n* 15:30｜推特增长与副业变现：一个月收入 1-2k 的尝试\n* 17:00｜如何看待 AI 创业机会？从个人兴趣出发，反向构建社群\n* 19:30｜项目落地机制：不靠融资不靠平台，靠“共识”和“共建”\n* 22:00｜从失败项目里学到的事：写在 Notion 上的复盘笔记\n* 24:30｜如何界定协作与搭子？从“自由但不孤独”的状态出发\n* 27:00｜表达作为筛选器：如何在内容中构建信任与连接\n* 30:00｜Be water 的理解：找到你的水流和路径\n* 33:00｜未来展望：超级个体系统的产品化与标准化可能性\n* 36:00｜琳月总结：表达即协作，没有标准答案也可以开始\n* 38:00｜结尾互动：观众提问与 Cell 的回应\n* 41:20｜收尾：感谢与下期预告\n✅ 特别的超级个体助推计划\n参与访谈本身是完全开放和免费的。\n如果你想让自己的声音被更多人听见，\n我们也提供可选的：\n🌟 Creator Boost Pack（创作者助推包） ¥299🎁\n包含权益如下：\n✅ 一次推特定制转发（价值 ¥500）\n由 @cellinlab（10k+ Follower）精编转发你的访谈内容\n✅ 一次社群 \u0026 公众号曝光（价值 ¥500）\n发布至造物矩阵平台及多个超级个体/AI 创业社群公号\n✅ 私域社群构建支持（200+精准用户）\n播前组群，播后由你接手运营，用内容沉淀长期关系资产\n[注]：推广包 后期会随权益扩增调整价格\n了解更多\n「$uperus｜超级个体开放麦」全面启动！",
+            "shownotes": null,
+            "duration": 2621,
+            "image": {
+              "picUrl": "https://image.xyzcdn.net/Fv5g32MoQt6GqtQJmACgL-qu6Rqs.png",
+              "width": 1024,
+              "height": 1024,
+              "format": "png",
+              "thumbnailUrl": "https://image.xyzcdn.net/Fv5g32MoQt6GqtQJmACgL-qu6Rqs.png@thumbnail",
+              "smallPicUrl": "https://image.xyzcdn.net/Fv5g32MoQt6GqtQJmACgL-qu6Rqs.png@small",
+              "middlePicUrl": "https://image.xyzcdn.net/Fv5g32MoQt6GqtQJmACgL-qu6Rqs.png@middle",
+              "largePicUrl": "https://image.xyzcdn.net/Fv5g32MoQt6GqtQJmACgL-qu6Rqs.png@large"
+            },
+            "enclosure": {
+              "url": "https://media.xyzcdn.net/685bb06b04741dab58813384/loy0hk-ti5ncJeW4N4pc8IP3y5o7.m4a"
+            },
+            "isPrivateMedia": false,
+            "mediaKey": "685bb06b04741dab58813384/loy0hk-ti5ncJeW4N4pc8IP3y5o7.m4a",
+            "media": {
+              "id": "685bb06b04741dab58813384/loy0hk-ti5ncJeW4N4pc8IP3y5o7.m4a",
+              "size": 36475070,
+              "mimeType": "audio/mp4",
+              "source": {
+                "mode": "PUBLIC",
+                "url": "https://media.xyzcdn.net/685bb06b04741dab58813384/loy0hk-ti5ncJeW4N4pc8IP3y5o7.m4a"
+              }
+            },
+            "playCount": 32,
+            "clapCount": 0,
+            "commentCount": 0,
+            "favoriteCount": 0,
+            "pubDate": "2025-07-25T17:58:07.759Z",
+            "status": "NORMAL",
+            "podcast": {
+              "type": "PODCAST",
+              "pid": "685bb06b04741dab58813384",
+              "title": "造物矩阵｜超级个体开放麦",
+              "author": "Cell细胞",
+              "description": "聚焦「独立工作者」与「超级个体」，邀请那些正在尝试或已经脱离职场、走上自我探索与创作之路的个体，聊聊他们如何启动副业、打造产品、走出主流职业轨道，构建自己的小生意。\n我们相信，在 AI 时代，表达、创造和自我构建，就是新的生存方式。\nHosted by Superus（www.superus.online）",
+              "subscriptionCount": 23,
+              "image": {
+                "picUrl": "https://image.xyzcdn.net/FtNbr-YrIAY04kbKEi9fJ7deUxHA.png",
+                "width": 1440,
+                "height": 1440,
+                "format": "png",
+                "thumbnailUrl": "https://image.xyzcdn.net/FtNbr-YrIAY04kbKEi9fJ7deUxHA.png@thumbnail",
+                "smallPicUrl": "https://image.xyzcdn.net/FtNbr-YrIAY04kbKEi9fJ7deUxHA.png@small",
+                "middlePicUrl": "https://image.xyzcdn.net/FtNbr-YrIAY04kbKEi9fJ7deUxHA.png@middle",
+                "largePicUrl": "https://image.xyzcdn.net/FtNbr-YrIAY04kbKEi9fJ7deUxHA.png@large"
+              },
+              "color": {
+                "original": "#E0DCC7",
+                "light": "#DCC54C",
+                "dark": "#DCC54C"
+              },
+              "topicLabels": [],
+              "syncMode": "SELF_HOSTING",
+              "latestEpisodePubDate": "2025-09-14T09:25:04.734Z",
+              "subscriptionStatus": "OFF",
+              "subscriptionPush": false,
+              "subscriptionPushPriority": "HIGH",
+              "subscriptionStar": false,
+              "status": "NORMAL",
+              "episodeCount": 5,
+              "permissions": [
+                {
+                  "name": "SHARE",
+                  "status": "PERMITTED"
+                },
+                {
+                  "name": "AI_SUMMARIZE_EPISODE",
+                  "status": "DENIED"
+                }
+              ],
+              "payType": "FREE",
+              "payEpisodeCount": 0,
+              "isCustomized": false,
+              "podcasters": [
+                {
+                  "uid": "61605025e0f5e723bb79e5ec",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/Fj8p0FYTnZuajjQ5oxhsr_O1-63C.jpg",
+                      "middlePicUrl": "https://image.xyzcdn.net/Fj8p0FYTnZuajjQ5oxhsr_O1-63C.jpg@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/Fj8p0FYTnZuajjQ5oxhsr_O1-63C.jpg@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/Fj8p0FYTnZuajjQ5oxhsr_O1-63C.jpg@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/Fj8p0FYTnZuajjQ5oxhsr_O1-63C.jpg@large",
+                      "width": 1080,
+                      "height": 1080,
+                      "format": "jpeg"
+                    }
+                  },
+                  "avatarDecoration": "PLATFORM_MEMBER_L1",
+                  "nickname": "Cell细胞",
+                  "isNicknameSet": true,
+                  "bio": "95后/北漂/程序员/独立开发者/现实的理想主义者/世界主义者",
+                  "gender": "MALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "687c956cd1d3507269c44d4c",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FmiPXfqrSo3aoIA7ERwYQbGasfpU",
+                      "middlePicUrl": "https://image.xyzcdn.net/FmiPXfqrSo3aoIA7ERwYQbGasfpU@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FmiPXfqrSo3aoIA7ERwYQbGasfpU@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FmiPXfqrSo3aoIA7ERwYQbGasfpU@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FmiPXfqrSo3aoIA7ERwYQbGasfpU@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "琳月_Lynn",
+                  "isNicknameSet": true,
+                  "bio": "职业相关：LLM/AIGC从业者，AIGC创作者、小红书博主",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                }
+              ],
+              "hasPopularEpisodes": false,
+              "contacts": [
+                {
+                  "type": "wechatOfficialAccounts",
+                  "name": "Cellinlab",
+                  "note": "订阅公众号"
+                },
+                {
+                  "type": "wechat",
+                  "name": "vCellinlab",
+                  "note": "添加微信"
+                },
+                {
+                  "type": "custom",
+                  "name": "X",
+                  "url": "https://x.com/cellinlab"
+                }
+              ],
+              "playTime": 35790,
+              "showZhuiguangIcon": false
+            },
+            "isPlayed": false,
+            "isFinished": false,
+            "isFavorited": false,
+            "isPicked": false,
+            "permissions": [
+              {
+                "name": "SHARE",
+                "status": "PERMITTED"
+              },
+              {
+                "name": "COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOICE_COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "COMMENT_PAGE",
+                "status": "DENIED"
+              },
+              {
+                "name": "CLAP",
+                "status": "DENIED"
+              },
+              {
+                "name": "PICK",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOTE",
+                "status": "DENIED"
+              },
+              {
+                "name": "AI_SUMMARIZE",
+                "status": "DENIED"
+              }
+            ],
+            "payType": "FREE",
+            "wechatShare": {
+              "style": "LINK_CARD"
+            },
+            "labels": [],
+            "sponsors": [],
+            "isCustomized": false,
+            "ipLoc": "北京",
+            "transcript": {
+              "mediaId": "685bb06b04741dab58813384/loy0hk-ti5ncJeW4N4pc8IP3y5o7.m4a"
+            }
+          }
+        ]
+      }
+    },
+    "__N_SSG": true
+  },
+  "page": "/podcast/[id]",
+  "query": {
+    "id": "685bb06b04741dab58813384"
+  },
+  "buildId": "J1QI9nM4himAGnAgatICK",
+  "assetPrefix": "https://static.xiaoyuzhoufm.com/cosmos",
+  "isFallback": false,
+  "gsp": true,
+  "customServer": true,
+  "scriptLoader": []
+}
